@@ -4,10 +4,15 @@
     position: fixed;
     left: 0px;
     top: 0px;
-    z-index: -1; 
+}
+.display-1 {
+    font-size: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 75px; 
 }
 
-.stretch {
-    width: 100%;
-    height: 100%;
+.subtitle {
+    font-size: 25px;
+    font-weight: bold;
 }
+
